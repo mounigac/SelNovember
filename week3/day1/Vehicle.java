@@ -1,7 +1,7 @@
 package week3.day1;
 
 public class Vehicle {
-	public void applyBrake() {
+	public  void applyBrake() {
 		System.out.println("Apply Brake - Normal Brake");
 	}
 	public void soundHorn() {
